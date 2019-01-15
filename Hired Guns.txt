@@ -1,0 +1,632 @@
+{
+  "games" : [ {
+    "gameName" : "Necromunda: Underhive",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Hive Scum",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 629,
+          "optionName" : "%Pistols - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 630,
+          "optionName" : "%Basic Weapons - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 631,
+          "optionName" : "%Close Combat Weapons - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Hive Scum",
+        "unitCost" : 30.0,
+        "unitID" : 628,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Bounty Hunter",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 633,
+          "optionName" : "%Armour  - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 634,
+          "optionName" : "%Basic Weapons - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 635,
+          "optionName" : "%Pistols - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 636,
+          "optionName" : "%Special Weapons  - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 637,
+          "optionName" : "%Heavy Weapons  - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 638,
+          "optionName" : "%Close Combat Weapons - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 639,
+          "optionName" : "%Grenades  - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 640,
+          "optionName" : "%Field Armour - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 641,
+          "optionName" : "%Bionics  - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 643,
+          "optionName" : "%Personal Equipment - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 644,
+          "optionName" : "%Weapon Accessories - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 645,
+          "optionName" : "%Agility",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 646,
+          "optionName" : "%Brawn",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 647,
+          "optionName" : "%Combat",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 648,
+          "optionName" : "%Cunning",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 649,
+          "optionName" : "%Ferocity",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 650,
+          "optionName" : "%Shooting",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunters",
+        "unitCost" : 80.0,
+        "unitID" : 632,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Baertrum Arturos",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 290.0,
+        "unitID" : 651,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ortruum 8-8",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 250.0,
+        "unitID" : 652,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Belladonna",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 275.0,
+        "unitID" : 653,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "The Deserter",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 225.0,
+        "unitID" : 654,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Eyros Slagmyst",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 270.0,
+        "unitID" : 655,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Gor Half-Horn",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 235.0,
+        "unitID" : 656,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grendl Grendlsen",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 280.0,
+        "unitID" : 657,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grub Targeson",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Hive Scum",
+        "unitCost" : 105.0,
+        "unitID" : 658,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Krotos Hark",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 220.0,
+        "unitID" : 660,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mad Dog Mono",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 90.0,
+        "unitID" : 662,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Slate Merdena",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 664,
+          "optionName" : "Macula, Cyber-Mastiff",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 360.0,
+        "unitID" : 663,
+        "autoAddDictionary" : {
+          "664" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Yar Umbra",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 230.0,
+        "unitID" : 665,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Yolanda Skorn",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 230.0,
+        "unitID" : 666,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Rogue Docs",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 687,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 688,
+          "optionName" : "Stub gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 689,
+          "optionName" : "Medicae kit",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Hangers-on",
+        "unitCost" : 50.0,
+        "unitID" : 668,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ammo Jacks",
+        "listOfOptions" : [ {
+          "optionCost" : 45.0,
+          "listOfRestrictions" : null,
+          "optionID" : 682,
+          "optionName" : "Power hammer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 50.0,
+          "listOfRestrictions" : null,
+          "optionID" : 683,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 684,
+          "optionName" : "Mesh armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 55.0,
+          "listOfRestrictions" : null,
+          "optionID" : 685,
+          "optionName" : "Boltgun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 70.0,
+          "listOfRestrictions" : null,
+          "optionID" : 686,
+          "optionName" : "Combat shotgun(with salvo and shredder ammo)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Hangers-on",
+        "unitCost" : 50.0,
+        "unitID" : 669,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Dome Runner",
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 678,
+          "optionName" : "Fighting knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 679,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 680,
+          "optionName" : "Stub gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 681,
+          "optionName" : "Axe",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Hangers-on",
+        "unitCost" : 20.0,
+        "unitID" : 670,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Slopper",
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 677,
+          "optionName" : "Fighting knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Hangers-on",
+        "unitCost" : 20.0,
+        "unitID" : 671,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Gang Look-Out",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 673,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 674,
+          "optionName" : "Stub gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 675,
+          "optionName" : "Fighting knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 676,
+          "optionName" : "Axe",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Hangers-on",
+        "unitCost" : 20.0,
+        "unitID" : 672,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Luther Pattern Excavation Automata",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 700,
+          "optionName" : "%Ferocity",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 70.0,
+          "listOfRestrictions" : null,
+          "optionID" : 710,
+          "optionName" : "Grav-fist",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Brutes",
+        "unitCost" : 215.0,
+        "unitID" : 690,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "'Jotunn' Servitor Ogryn",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 701,
+          "optionName" : "%Brawn",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 70.0,
+          "listOfRestrictions" : null,
+          "optionID" : 712,
+          "optionName" : "Arc welder",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 713,
+          "optionName" : "Furnace plate armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Brutes",
+        "unitCost" : 210.0,
+        "unitID" : 691,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Caryatid",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 763,
+          "optionName" : "%Agility",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Exotic Beasts",
+        "unitCost" : 0.0,
+        "unitID" : 756,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Stash",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 765,
+          "optionName" : "%Basic Weapons - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 766,
+          "optionName" : "%Pistols - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 767,
+          "optionName" : "%Special Weapons  - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 768,
+          "optionName" : "%Heavy Weapons  - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 769,
+          "optionName" : "%Close Combat Weapons - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 770,
+          "optionName" : "%Grenades  - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 771,
+          "optionName" : "%Armour  - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 772,
+          "optionName" : "%Field Armour - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 773,
+          "optionName" : "%Bionics  - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 774,
+          "optionName" : "%Gang Equipment - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 775,
+          "optionName" : "%Personal Equipment - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 776,
+          "optionName" : "%Weapon Accessories - Trading Post",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 777,
+          "optionName" : "%Status Items - Trading Post ",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Trading Post",
+        "unitCost" : 0.0,
+        "unitID" : 764,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Hired Guns",
+      "armyCategories" : [ "Hangers-on", "Hive Scum", "Trading Post" ]
+    } ],
+    "gameCategories" : [ "Leaders", "Champions", "Juves", "Gangers", "Bounty Hunter", "Brutes", "Exotic Beasts" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}

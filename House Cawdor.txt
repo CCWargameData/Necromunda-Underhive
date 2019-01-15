@@ -1,0 +1,618 @@
+{
+  "games" : [ {
+    "gameName" : "Necromunda: Underhive",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Leader",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 55,
+          "optionName" : "%Brawn",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 57,
+          "optionName" : "%Combat",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 58,
+          "optionName" : "%Leadership",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 100,
+          "optionName" : "$Basic Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 101,
+          "optionName" : "$Close Combat Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 102,
+          "optionName" : "$Pistols - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 103,
+          "optionName" : "$Special Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 104,
+          "optionName" : "$Heavy Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 105,
+          "optionName" : "$Grenades - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 106,
+          "optionName" : "$Armour - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 107,
+          "optionName" : "$Personal Equipment- Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leaders",
+        "unitCost" : 105.0,
+        "unitID" : 51,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Champion",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 108,
+          "optionName" : "%Brawn",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 109,
+          "optionName" : "%Combat",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 110,
+          "optionName" : "$Basic Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 111,
+          "optionName" : "$Close Combat Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 112,
+          "optionName" : "$Pistols - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 113,
+          "optionName" : "$Special Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 114,
+          "optionName" : "$Heavy Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 115,
+          "optionName" : "$Grenades - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 116,
+          "optionName" : "$Armour - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 117,
+          "optionName" : "$Personal Equipment- Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Champion",
+        "unitCost" : 95.0,
+        "unitID" : 52,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Juve",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 18,
+          "optionName" : "$Pistols - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 19,
+          "optionName" : "$Close Combat Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Juves",
+        "unitCost" : 20.0,
+        "unitID" : 53,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ganger",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 56,
+          "optionName" : "$Close Combat Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 74,
+          "optionName" : "$Pistols - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 75,
+          "optionName" : "$Basic Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 118,
+          "optionName" : "$Basic Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 119,
+          "optionName" : "$Special Weapons - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 120,
+          "optionName" : "$Armour - Cawdor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Gangers",
+        "unitCost" : 45.0,
+        "unitID" : 54,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cawdor Stig-Shambler",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 702,
+          "optionName" : "%Brawn",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 703,
+          "optionName" : "%Savant",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 716,
+          "optionName" : "Polearm",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 40.0,
+          "listOfRestrictions" : null,
+          "optionID" : 717,
+          "optionName" : "Twin-linked heavy stubber",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 70.0,
+          "listOfRestrictions" : null,
+          "optionID" : 718,
+          "optionName" : "Heavy flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 719,
+          "optionName" : "Flak armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Brutes",
+        "unitCost" : 240.0,
+        "unitID" : 692,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Sheen Birds",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 757,
+          "optionName" : "%Ferocity",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Exotic Beasts",
+        "unitCost" : 90.0,
+        "unitID" : 750,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 59,
+          "optionName" : "Cawdor polearm/autogun*",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 40.0,
+          "listOfRestrictions" : null,
+          "optionID" : 60,
+          "optionName" : "Cawdor polearm/blunderbuss*",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 61,
+          "optionName" : "Reclaimed autogun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 62,
+          "optionName" : "Sawn-off shotgun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Basic Weapons - Cawdor"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 63,
+          "optionName" : "Axe",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 60.0,
+          "listOfRestrictions" : null,
+          "optionID" : 64,
+          "optionName" : "Chain glaive*",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 65,
+          "optionName" : "Maul",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 66,
+          "optionName" : "Fighting knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 67,
+          "optionName" : "Flail",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 68,
+          "optionName" : "Two-handed axe",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 69,
+          "optionName" : "Two-handed hammer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Close Combat Weapons - Cawdor"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 75.0,
+          "listOfRestrictions" : null,
+          "optionID" : 70,
+          "optionName" : "Hand flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 71,
+          "optionName" : "Reclaimed autopistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 72,
+          "optionName" : "Stub gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Pistols - Cawdor"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 110.0,
+          "listOfRestrictions" : null,
+          "optionID" : 73,
+          "optionName" : "Combi weapon (autogun/flamer)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 76,
+          "optionName" : "Long rifle",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 130.0,
+          "listOfRestrictions" : null,
+          "optionID" : 77,
+          "optionName" : "Flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Special Weapons - Cawdor"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 125.0,
+          "listOfRestrictions" : null,
+          "optionID" : 78,
+          "optionName" : "Cawdor heavy crossbow*",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 195.0,
+          "listOfRestrictions" : null,
+          "optionID" : 79,
+          "optionName" : "Heavy flamer*",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 130.0,
+          "listOfRestrictions" : null,
+          "optionID" : 80,
+          "optionName" : "Heavy stubber*",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Heavy Weapons - Cawdor"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 81,
+          "optionName" : "Blasting Charges",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 50.0,
+          "listOfRestrictions" : null,
+          "optionID" : 82,
+          "optionName" : "Choke Gas Grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 83,
+          "optionName" : "Frag Grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 40.0,
+          "listOfRestrictions" : null,
+          "optionID" : 84,
+          "optionName" : "Incendiary Charges",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 45.0,
+          "listOfRestrictions" : null,
+          "optionID" : 85,
+          "optionName" : "Krak Grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 86,
+          "optionName" : "Smoke Grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Grenades - Cawdor"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 87,
+          "optionName" : "Flak Armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 88,
+          "optionName" : "Mesh Armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Armour - Cawdor"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 89,
+          "optionName" : "Bomb Delivery Rats",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 40.0,
+          "listOfRestrictions" : null,
+          "optionID" : 90,
+          "optionName" : "Cult Icon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 91,
+          "optionName" : "Drop Rig",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 92,
+          "optionName" : "Dumdum Ronds",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 93,
+          "optionName" : "Emperor's Wrath Rounds",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 94,
+          "optionName" : "Filter Plugs",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 95,
+          "optionName" : "Mono-sight",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 96,
+          "optionName" : "Photo-googles",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 97,
+          "optionName" : "Respirator",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 98,
+          "optionName" : "Skinblade",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 99,
+          "optionName" : "Strip Kit",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Personal Equipment- Cawdor"
+      } ],
+      "armyName" : "House Cawdor",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leaders", "Champions", "Juves", "Gangers", "Bounty Hunter", "Brutes", "Exotic Beasts" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}

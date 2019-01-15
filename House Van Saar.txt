@@ -1,0 +1,597 @@
+{
+  "games" : [ {
+    "gameName" : "Necromunda: Underhive",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Leader",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 412,
+          "optionName" : "%Leadership",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 413,
+          "optionName" : "%Shooting",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 416,
+          "optionName" : "%Savant",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 418,
+          "optionName" : "$Basic Weapons - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 423,
+          "optionName" : "$Close Combat Weapons - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 424,
+          "optionName" : "$Pistols - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 430,
+          "optionName" : "$Special Weapons - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 431,
+          "optionName" : "$Heavy Weapons - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 434,
+          "optionName" : "$Grenades - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 435,
+          "optionName" : "$Armour - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 438,
+          "optionName" : "$Personal Equipment - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leaders",
+        "unitCost" : 130.0,
+        "unitID" : 407,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Champion",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 414,
+          "optionName" : "%Shooting",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 415,
+          "optionName" : "%Savant",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 417,
+          "optionName" : "$Basic Weapons - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 422,
+          "optionName" : "$Close Combat Weapons - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 425,
+          "optionName" : "$Pistols - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 429,
+          "optionName" : "$Special Weapons - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 432,
+          "optionName" : "$Heavy Weapons - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 433,
+          "optionName" : "$Grenades - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 436,
+          "optionName" : "$Armour - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 437,
+          "optionName" : "$Personal Equipment - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Champions",
+        "unitCost" : 110.0,
+        "unitID" : 409,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Juve",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 421,
+          "optionName" : "$Close Combat Weapons - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 426,
+          "optionName" : "$Pistols - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Juves",
+        "unitCost" : 35.0,
+        "unitID" : 410,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ganger",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 419,
+          "optionName" : "$Basic Weapons - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 420,
+          "optionName" : "$Close Combat Weapons - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 427,
+          "optionName" : "$Pistols - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 428,
+          "optionName" : "$Special Weapons - Van Saar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Gangers",
+        "unitCost" : 65.0,
+        "unitID" : 411,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Van Saar 'Arachni-rig' Servo-Suit",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 708,
+          "optionName" : "%Shooting",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 60.0,
+          "listOfRestrictions" : null,
+          "optionID" : 732,
+          "optionName" : "Rad gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 60.0,
+          "listOfRestrictions" : null,
+          "optionID" : 733,
+          "optionName" : "Plasma gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 734,
+          "optionName" : "Heavy carapace armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Brutes",
+        "unitCost" : 240.0,
+        "unitID" : 698,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cyberachnid",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 762,
+          "optionName" : "%Cunning",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Exotic Beasts",
+        "unitCost" : 75.0,
+        "unitID" : 755,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 442,
+          "optionName" : "Lasgun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 443,
+          "optionName" : "Las carbine",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 40.0,
+          "listOfRestrictions" : null,
+          "optionID" : 444,
+          "optionName" : "Suppression laser",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Basic Weapons - Van Saar"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 50.0,
+          "listOfRestrictions" : null,
+          "optionID" : 445,
+          "optionName" : "'Hystrar' pattern energy shield",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 446,
+          "optionName" : "Power knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 447,
+          "optionName" : "Servo claw",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 448,
+          "optionName" : "Shock baton",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 449,
+          "optionName" : "Shock stove",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Close Combat Weapons - Van Saar"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 75.0,
+          "listOfRestrictions" : null,
+          "optionID" : 450,
+          "optionName" : "Hand flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 451,
+          "optionName" : "Las pistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 452,
+          "optionName" : "Las sub-carbine",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 50.0,
+          "listOfRestrictions" : null,
+          "optionID" : 453,
+          "optionName" : "Plasma pistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Pistols - Van Saar"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 120.0,
+          "listOfRestrictions" : null,
+          "optionID" : 454,
+          "optionName" : "Combi-weapon(lasgun/melta)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 75.0,
+          "listOfRestrictions" : null,
+          "optionID" : 455,
+          "optionName" : "Combi-weapon(lasgun/plasma gun)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 140.0,
+          "listOfRestrictions" : null,
+          "optionID" : 456,
+          "optionName" : "Flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 120.0,
+          "listOfRestrictions" : null,
+          "optionID" : 457,
+          "optionName" : "Grav gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 135.0,
+          "listOfRestrictions" : null,
+          "optionID" : 458,
+          "optionName" : "Meltagun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 100.0,
+          "listOfRestrictions" : null,
+          "optionID" : 459,
+          "optionName" : "Plasma gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 100.0,
+          "listOfRestrictions" : null,
+          "optionID" : 460,
+          "optionName" : "Rad gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Special Weapons - Van Saar"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 130.0,
+          "listOfRestrictions" : null,
+          "optionID" : 461,
+          "optionName" : "Plasma cannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 180.0,
+          "listOfRestrictions" : null,
+          "optionID" : 462,
+          "optionName" : "Multi-melta",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 130.0,
+          "listOfRestrictions" : null,
+          "optionID" : 463,
+          "optionName" : "Rad cannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Heavy Weapons - Van Saar"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 464,
+          "optionName" : "Frag grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 45.0,
+          "listOfRestrictions" : null,
+          "optionID" : 465,
+          "optionName" : "Krak grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 466,
+          "optionName" : "Rad grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 467,
+          "optionName" : "Smoke grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Grenades - Van Saar"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 439,
+          "optionName" : "Armoured bodyglove",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 440,
+          "optionName" : "Flak armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 441,
+          "optionName" : "Mesh armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Armour - Van Saar"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 468,
+          "optionName" : "Bio-booster",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 469,
+          "optionName" : "Drop rig",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 470,
+          "optionName" : "Filter plugs",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 40.0,
+          "listOfRestrictions" : null,
+          "optionID" : 471,
+          "optionName" : "Grav chute",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 40.0,
+          "listOfRestrictions" : null,
+          "optionID" : 472,
+          "optionName" : "Infra-sight",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 473,
+          "optionName" : "Las-projector",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 474,
+          "optionName" : "Mono-sight",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 475,
+          "optionName" : "Photo-goggles",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 476,
+          "optionName" : "Respirator",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 60.0,
+          "listOfRestrictions" : null,
+          "optionID" : 477,
+          "optionName" : "Suspensors",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 478,
+          "optionName" : "Telescopic sight",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Personal Equipment - Van Saar"
+      } ],
+      "armyName" : "House Van Saar",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leaders", "Champions", "Juves", "Gangers", "Bounty Hunter", "Brutes", "Exotic Beasts" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}

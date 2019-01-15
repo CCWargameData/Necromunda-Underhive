@@ -1,0 +1,611 @@
+{
+  "games" : [ {
+    "gameName" : "Necromunda: Underhive",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Leader",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 379,
+          "optionName" : "%Ferocity",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 382,
+          "optionName" : "%Savant",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 383,
+          "optionName" : "%Leadership",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 384,
+          "optionName" : "$Basic Weapons - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 387,
+          "optionName" : "$Close Combat Weapons - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 391,
+          "optionName" : "$Pistols - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 395,
+          "optionName" : "$Special Weapons - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 398,
+          "optionName" : "$Heavy Weapons - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 399,
+          "optionName" : "$Grenades - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 401,
+          "optionName" : "$Armour - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 403,
+          "optionName" : "$Personal Equipment - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leaders",
+        "unitCost" : 120.0,
+        "unitID" : 375,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Champion",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 380,
+          "optionName" : "%Ferocity",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 381,
+          "optionName" : "%Savant",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 385,
+          "optionName" : "$Basic Weapons - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 388,
+          "optionName" : "$Close Combat Weapons - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 392,
+          "optionName" : "$Pistols - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 396,
+          "optionName" : "$Special Weapons - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 397,
+          "optionName" : "$Heavy Weapons - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 400,
+          "optionName" : "$Grenades - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 402,
+          "optionName" : "$Armour - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 404,
+          "optionName" : "$Personal Equipment - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Champions",
+        "unitCost" : 95.0,
+        "unitID" : 376,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Juve",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 389,
+          "optionName" : "$Close Combat Weapons - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 393,
+          "optionName" : "$Pistols - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Juves",
+        "unitCost" : 30.0,
+        "unitID" : 377,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ganger",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 386,
+          "optionName" : "$Basic Weapons - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 390,
+          "optionName" : "$Close Combat Weapons - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 394,
+          "optionName" : "$Pistols - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 405,
+          "optionName" : "$Armour - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 406,
+          "optionName" : "$Special Weapons - Orlock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Gangers",
+        "unitCost" : 55.0,
+        "unitID" : 378,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Orlock 'Lugger' Cargo Servitor",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 707,
+          "optionName" : "%Shooting",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 50.0,
+          "listOfRestrictions" : null,
+          "optionID" : 727,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 85.0,
+          "listOfRestrictions" : null,
+          "optionID" : 728,
+          "optionName" : "Heavy flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 729,
+          "optionName" : "Heavy stubber",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 730,
+          "optionName" : "Heavy carapace armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 731,
+          "optionName" : "Mono-sight",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Brutes",
+        "unitCost" : 230.0,
+        "unitID" : 697,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cyber-Mastiff",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 761,
+          "optionName" : "%Combat",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Exotic Beasts",
+        "unitCost" : 100.0,
+        "unitID" : 754,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 336,
+          "optionName" : "Autogun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 55.0,
+          "listOfRestrictions" : null,
+          "optionID" : 337,
+          "optionName" : "Boltgun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 55.0,
+          "listOfRestrictions" : null,
+          "optionID" : 338,
+          "optionName" : "Combat shotgun(with salvo and shredder ammo)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 339,
+          "optionName" : "Sawn-off shotgun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 340,
+          "optionName" : "Shotgun(with solid and scatter ammo)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Basic Weapons - Orlock"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 341,
+          "optionName" : "Chainsword",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 342,
+          "optionName" : "Fighting knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 343,
+          "optionName" : "Flail",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 344,
+          "optionName" : "Maul(club)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 345,
+          "optionName" : "Power knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 346,
+          "optionName" : "Servo claw",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 347,
+          "optionName" : "Two-handed hammer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Close Combat Weapons - Orlock"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 348,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 45.0,
+          "listOfRestrictions" : null,
+          "optionID" : 349,
+          "optionName" : "Bolt pistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 75.0,
+          "listOfRestrictions" : null,
+          "optionID" : 350,
+          "optionName" : "Hand flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 50.0,
+          "listOfRestrictions" : null,
+          "optionID" : 351,
+          "optionName" : "Plasma pistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 352,
+          "optionName" : "Stub gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Pistols - Orlock"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 165.0,
+          "listOfRestrictions" : null,
+          "optionID" : 353,
+          "optionName" : "Combi-weapon(bolter/melta)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 140.0,
+          "listOfRestrictions" : null,
+          "optionID" : 354,
+          "optionName" : "Flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 65.0,
+          "listOfRestrictions" : null,
+          "optionID" : 355,
+          "optionName" : "Grenade launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 100.0,
+          "listOfRestrictions" : null,
+          "optionID" : 356,
+          "optionName" : "Plasma gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 135.0,
+          "listOfRestrictions" : null,
+          "optionID" : 357,
+          "optionName" : "Meltagun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Special Weapons - Orlock"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 110.0,
+          "listOfRestrictions" : null,
+          "optionID" : 358,
+          "optionName" : "Harpoon launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 160.0,
+          "listOfRestrictions" : null,
+          "optionID" : 359,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 195.0,
+          "listOfRestrictions" : null,
+          "optionID" : 360,
+          "optionName" : "Heavy flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 130.0,
+          "listOfRestrictions" : null,
+          "optionID" : 361,
+          "optionName" : "Heavy stubber",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Heavy Weapons - Orlock"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 362,
+          "optionName" : "Blasting charges",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 45.0,
+          "listOfRestrictions" : null,
+          "optionID" : 363,
+          "optionName" : "Demo charges",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 364,
+          "optionName" : "Frag grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 45.0,
+          "listOfRestrictions" : null,
+          "optionID" : 365,
+          "optionName" : "Krak grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Grenades - Orlock"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 366,
+          "optionName" : "Flak armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 367,
+          "optionName" : "Mesh armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Armour - Orlock"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 368,
+          "optionName" : "Bio-booster",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 369,
+          "optionName" : "Drop rig",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 370,
+          "optionName" : "Dumdum rounds",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 371,
+          "optionName" : "Filter plugs",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 372,
+          "optionName" : "Photo-goggles",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 373,
+          "optionName" : "Respirator",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 374,
+          "optionName" : "Telescopic sight",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Personal Equipment - Orlock"
+      } ],
+      "armyName" : "House Orlock",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leaders", "Champions", "Juves", "Gangers", "Bounty Hunter", "Brutes", "Exotic Beasts" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}

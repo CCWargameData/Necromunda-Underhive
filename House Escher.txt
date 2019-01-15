@@ -1,0 +1,592 @@
+{
+  "games" : [ {
+    "gameName" : "Necromunda: Underhive",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Leader",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 239,
+          "optionName" : "%Agility",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 240,
+          "optionName" : "%Combat",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 243,
+          "optionName" : "%Leadership",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 244,
+          "optionName" : "%Basic Weapons - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 245,
+          "optionName" : "%Close Combat Weapons - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 246,
+          "optionName" : "%Pistols - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 247,
+          "optionName" : "%Special Weapons - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 248,
+          "optionName" : "%Heavy Weapons - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 249,
+          "optionName" : "%Grenades - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 250,
+          "optionName" : "%Armour - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 251,
+          "optionName" : "%Personal Equipment - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leaders",
+        "unitCost" : 120.0,
+        "unitID" : 232,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Champion",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 238,
+          "optionName" : "%Agility",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 241,
+          "optionName" : "%Combat",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 252,
+          "optionName" : "%Basic Weapons - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 253,
+          "optionName" : "%Close Combat Weapons - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 254,
+          "optionName" : "%Pistols - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 255,
+          "optionName" : "%Special Weapons - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 256,
+          "optionName" : "%Heavy Weapons - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 257,
+          "optionName" : "%Grenades - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 258,
+          "optionName" : "%Armour - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 259,
+          "optionName" : "%Personal Equipment - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Champions",
+        "unitCost" : 95.0,
+        "unitID" : 233,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Juve",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 260,
+          "optionName" : "%Close Combat Weapons - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 261,
+          "optionName" : "%Pistols - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Juves",
+        "unitCost" : 20.0,
+        "unitID" : 234,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ganger",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 262,
+          "optionName" : "%Close Combat Weapons - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 263,
+          "optionName" : "%Pistols - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 264,
+          "optionName" : "%Basic Weapons - Escher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Gangers",
+        "unitCost" : 50.0,
+        "unitID" : 235,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Kria Kytoro",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Bounty Hunter",
+        "unitCost" : 240.0,
+        "unitID" : 659,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "House Escher Shimerix",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 705,
+          "optionName" : "%Ferocity",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 80.0,
+          "listOfRestrictions" : null,
+          "optionID" : 721,
+          "optionName" : "Gaseous eruption",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 722,
+          "optionName" : "Razor-sharp talons",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 723,
+          "optionName" : "Flak armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Brutes",
+        "unitCost" : 220.0,
+        "unitID" : 696,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Phyrr Cat",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 759,
+          "optionName" : "%Agility",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Exotic Beasts",
+        "unitCost" : 120.0,
+        "unitID" : 752,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 193,
+          "optionName" : "Autogun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 194,
+          "optionName" : "Lasgun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 195,
+          "optionName" : "Shotgun(with solid and scatter ammo)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Basic Weapons - Escher"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 196,
+          "optionName" : "Chainsword",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 197,
+          "optionName" : "Fighting knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 198,
+          "optionName" : "Power knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 45.0,
+          "listOfRestrictions" : null,
+          "optionID" : 199,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 200,
+          "optionName" : "Shock whip",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 201,
+          "optionName" : "Stiletto knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 202,
+          "optionName" : "Stiletto sword",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Close Combat Weapons - Escher"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 203,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 75.0,
+          "listOfRestrictions" : null,
+          "optionID" : 204,
+          "optionName" : "Hand flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 205,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 206,
+          "optionName" : "Needle pistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 50.0,
+          "listOfRestrictions" : null,
+          "optionID" : 207,
+          "optionName" : "Plasma pistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 208,
+          "optionName" : "Stub gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Pistols - Escher"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 80.0,
+          "listOfRestrictions" : null,
+          "optionID" : 209,
+          "optionName" : "Combi-weapon(bolter/needler)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 140.0,
+          "listOfRestrictions" : null,
+          "optionID" : 210,
+          "optionName" : "Flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 135.0,
+          "listOfRestrictions" : null,
+          "optionID" : 211,
+          "optionName" : "Meltagun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 212,
+          "optionName" : "Needle rifle",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 135.0,
+          "listOfRestrictions" : null,
+          "optionID" : 213,
+          "optionName" : "'Nightshade' chem-thrower",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 100.0,
+          "listOfRestrictions" : null,
+          "optionID" : 214,
+          "optionName" : "Plasma gun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Special Weapons - Escher"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 130.0,
+          "listOfRestrictions" : null,
+          "optionID" : 215,
+          "optionName" : "Havy stubber",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Heavy Weapons - Escher"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 45.0,
+          "listOfRestrictions" : null,
+          "optionID" : 216,
+          "optionName" : "Choke gas grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 217,
+          "optionName" : "Frag grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 45.0,
+          "listOfRestrictions" : null,
+          "optionID" : 218,
+          "optionName" : "Krak grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 219,
+          "optionName" : "Photon flash grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 40.0,
+          "listOfRestrictions" : null,
+          "optionID" : 220,
+          "optionName" : "Scare gas grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 221,
+          "optionName" : "Smoke grenades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Grenades - Escher"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 222,
+          "optionName" : "Flak armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 223,
+          "optionName" : "Mesh armour",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Armour - Escher"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 224,
+          "optionName" : "Acid rounds",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 225,
+          "optionName" : "Chem-synth",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 226,
+          "optionName" : "Drop rig",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 227,
+          "optionName" : "Dumdum rounds",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 228,
+          "optionName" : "Filter plugs",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 229,
+          "optionName" : "Las-projector",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 230,
+          "optionName" : "Photo goggles",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 231,
+          "optionName" : "Respirator",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Personal Equipment - Escher"
+      } ],
+      "armyName" : "House Escher",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leaders", "Champions", "Juves", "Gangers", "Bounty Hunter", "Brutes", "Exotic Beasts" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}
