@@ -11,6 +11,7 @@
           "optionID" : 166,
           "optionName" : "%Agility",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -18,6 +19,7 @@
           "optionID" : 167,
           "optionName" : "%Cunning",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -25,6 +27,7 @@
           "optionID" : 169,
           "optionName" : "%Leadership",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -32,6 +35,7 @@
           "optionID" : 171,
           "optionName" : "$Basic Weapons - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -39,6 +43,7 @@
           "optionID" : 172,
           "optionName" : "$Close Combat Weapons - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -46,6 +51,7 @@
           "optionID" : 173,
           "optionName" : "$Pistols - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -53,6 +59,7 @@
           "optionID" : 174,
           "optionName" : "$Special Weapons - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -60,6 +67,7 @@
           "optionID" : 175,
           "optionName" : "$Heavy Weapons - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -67,6 +75,7 @@
           "optionID" : 176,
           "optionName" : "$Grenades - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -74,6 +83,7 @@
           "optionID" : 177,
           "optionName" : "$Armour - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -81,6 +91,7 @@
           "optionID" : 178,
           "optionName" : "$Personal Equipment - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -88,6 +99,7 @@
         "unitCost" : 110.0,
         "unitID" : 121,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Champion",
@@ -97,6 +109,7 @@
           "optionID" : 168,
           "optionName" : "%Cunning",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -104,6 +117,7 @@
           "optionID" : 170,
           "optionName" : "%Shooting",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -111,6 +125,7 @@
           "optionID" : 179,
           "optionName" : "$Basic Weapons - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -118,6 +133,7 @@
           "optionID" : 180,
           "optionName" : "$Close Combat Weapons - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -125,6 +141,7 @@
           "optionID" : 181,
           "optionName" : "$Pistols - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -132,6 +149,7 @@
           "optionID" : 182,
           "optionName" : "$Special Weapons - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -139,6 +157,7 @@
           "optionID" : 183,
           "optionName" : "$Heavy Weapons - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -146,6 +165,7 @@
           "optionID" : 184,
           "optionName" : "$Grenades - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -153,6 +173,7 @@
           "optionID" : 185,
           "optionName" : "$Armour - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -160,6 +181,7 @@
           "optionID" : 186,
           "optionName" : "$Personal Equipment - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -167,6 +189,7 @@
         "unitCost" : 95.0,
         "unitID" : 122,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Juve",
@@ -176,6 +199,7 @@
           "optionID" : 187,
           "optionName" : "$Close Combat Weapons - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -183,6 +207,7 @@
           "optionID" : 188,
           "optionName" : "$Pistols - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -190,6 +215,7 @@
         "unitCost" : 25.0,
         "unitID" : 123,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ganger",
@@ -199,6 +225,7 @@
           "optionID" : 189,
           "optionName" : "$Pistols - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -206,6 +233,7 @@
           "optionID" : 190,
           "optionName" : "$Close Combat Weapons - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -213,6 +241,7 @@
           "optionID" : 191,
           "optionName" : "$Basic Weapons - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -220,6 +249,7 @@
           "optionID" : 192,
           "optionName" : "$Special Weapons - Delaque",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -227,6 +257,7 @@
         "unitCost" : 50.0,
         "unitID" : 124,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "House Delaque Spyker",
@@ -236,6 +267,7 @@
           "optionID" : 704,
           "optionName" : "%Savant",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -243,6 +275,7 @@
           "optionID" : 720,
           "optionName" : "Displacer field",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -250,6 +283,7 @@
         "unitCost" : 190.0,
         "unitID" : 693,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cephalopod Spekter",
@@ -259,6 +293,7 @@
           "optionID" : 758,
           "optionName" : "%Cunning",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -266,6 +301,7 @@
         "unitCost" : 100.0,
         "unitID" : 751,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
@@ -275,6 +311,7 @@
           "optionID" : 125,
           "optionName" : "Autogun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -282,6 +319,7 @@
           "optionID" : 126,
           "optionName" : "Shotgun(with solid and scatter ammo)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -289,6 +327,7 @@
           "optionID" : 127,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -296,6 +335,7 @@
           "optionID" : 128,
           "optionName" : "Throwing knives",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Basic Weapons - Delaque"
@@ -306,6 +346,7 @@
           "optionID" : 129,
           "optionName" : "Digi lasers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -313,6 +354,7 @@
           "optionID" : 130,
           "optionName" : "Shock stave",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -320,6 +362,7 @@
           "optionID" : 131,
           "optionName" : "Stiletto knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 35.0,
@@ -327,6 +370,7 @@
           "optionID" : 132,
           "optionName" : "Web gauntlet",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Close Combat Weapons - Delaque"
@@ -337,6 +381,7 @@
           "optionID" : 133,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -344,6 +389,7 @@
           "optionID" : 134,
           "optionName" : "Flechette pisol(with solid and fleshbane ammo)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 75.0,
@@ -351,6 +397,7 @@
           "optionID" : 135,
           "optionName" : "Hand flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -358,6 +405,7 @@
           "optionID" : 136,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -365,6 +413,7 @@
           "optionID" : 137,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -372,6 +421,7 @@
           "optionID" : 138,
           "optionName" : "Stub gun ",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 80.0,
@@ -379,6 +429,7 @@
           "optionID" : 139,
           "optionName" : "Web pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Pistols - Delaque"
@@ -389,6 +440,7 @@
           "optionID" : 140,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 120.0,
@@ -396,6 +448,7 @@
           "optionID" : 141,
           "optionName" : "Grav gun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -403,6 +456,7 @@
           "optionID" : 142,
           "optionName" : "Long rifle",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 135.0,
@@ -410,6 +464,7 @@
           "optionID" : 143,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 100.0,
@@ -417,6 +472,7 @@
           "optionID" : 144,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -424,6 +480,7 @@
           "optionID" : 145,
           "optionName" : "Stub gun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 80.0,
@@ -431,6 +488,7 @@
           "optionID" : 146,
           "optionName" : "Web pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Special Weapons - Delaque"
@@ -441,6 +499,7 @@
           "optionID" : 147,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Heavy Weapons - Delaque"
@@ -451,6 +510,7 @@
           "optionID" : 148,
           "optionName" : "Choke gas grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -458,6 +518,7 @@
           "optionID" : 149,
           "optionName" : "Photon flash grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 40.0,
@@ -465,6 +526,7 @@
           "optionID" : 150,
           "optionName" : "Scare gas grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -472,6 +534,7 @@
           "optionID" : 152,
           "optionName" : "Smoke grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -479,6 +542,7 @@
           "optionID" : 153,
           "optionName" : "Stun grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Grenades - Delaque"
@@ -489,6 +553,7 @@
           "optionID" : 154,
           "optionName" : "Flak armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -496,6 +561,7 @@
           "optionID" : 155,
           "optionName" : "Mesh armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Armour - Delaque"
@@ -506,6 +572,7 @@
           "optionID" : 156,
           "optionName" : "Bio-scanner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -513,6 +580,7 @@
           "optionID" : 157,
           "optionName" : "Filter plugs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -520,6 +588,7 @@
           "optionID" : 158,
           "optionName" : "Grapnel launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -527,6 +596,7 @@
           "optionID" : 159,
           "optionName" : "Gunshroud",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 35.0,
@@ -534,6 +604,7 @@
           "optionID" : 160,
           "optionName" : "Infra sight",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 35.0,
@@ -541,6 +612,7 @@
           "optionID" : 161,
           "optionName" : "Mono-sight",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -548,6 +620,7 @@
           "optionID" : 162,
           "optionName" : "Photo-goggles",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -555,6 +628,7 @@
           "optionID" : 163,
           "optionName" : "Respirator",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -562,6 +636,7 @@
           "optionID" : 164,
           "optionName" : "Skinblade",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -569,6 +644,7 @@
           "optionID" : 165,
           "optionName" : "Web solvent",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Personal Equipment - Delaque"

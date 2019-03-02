@@ -11,6 +11,7 @@
           "optionID" : 308,
           "optionName" : "%Brawn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -18,6 +19,7 @@
           "optionID" : 311,
           "optionName" : "%Ferocity",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -25,6 +27,7 @@
           "optionID" : 312,
           "optionName" : "%Leadership",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -32,6 +35,7 @@
           "optionID" : 313,
           "optionName" : "$Basic Weapons - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -39,6 +43,7 @@
           "optionID" : 316,
           "optionName" : "$Close Combat Weapons - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -46,6 +51,7 @@
           "optionID" : 317,
           "optionName" : "$Pistols - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -53,6 +59,7 @@
           "optionID" : 320,
           "optionName" : "$Special Weapons - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -60,6 +67,7 @@
           "optionID" : 321,
           "optionName" : "$Heavy Weapons - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -67,6 +75,7 @@
           "optionID" : 324,
           "optionName" : "$Grenades - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -74,6 +83,7 @@
           "optionID" : 325,
           "optionName" : "$Armour - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -81,6 +91,7 @@
           "optionID" : 328,
           "optionName" : "$Personal Equipment - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -88,6 +99,7 @@
         "unitCost" : 145.0,
         "unitID" : 304,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Champion",
@@ -97,6 +109,7 @@
           "optionID" : 309,
           "optionName" : "%Brawn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -104,6 +117,7 @@
           "optionID" : 310,
           "optionName" : "%Ferocity",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -111,6 +125,7 @@
           "optionID" : 314,
           "optionName" : "$Basic Weapons - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -118,6 +133,7 @@
           "optionID" : 315,
           "optionName" : "$Close Combat Weapons - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -125,6 +141,7 @@
           "optionID" : 318,
           "optionName" : "$Pistols - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -132,6 +149,7 @@
           "optionID" : 319,
           "optionName" : "$Special Weapons - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -139,6 +157,7 @@
           "optionID" : 322,
           "optionName" : "$Heavy Weapons - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -146,6 +165,7 @@
           "optionID" : 323,
           "optionName" : "$Grenades - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -153,6 +173,7 @@
           "optionID" : 326,
           "optionName" : "$Armour - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -160,6 +181,7 @@
           "optionID" : 327,
           "optionName" : "$Personal Equipment - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -167,6 +189,7 @@
         "unitCost" : 110.0,
         "unitID" : 305,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Juve",
@@ -176,6 +199,7 @@
           "optionID" : 329,
           "optionName" : "$Close Combat Weapons - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -183,6 +207,7 @@
           "optionID" : 331,
           "optionName" : "$Pistols - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -190,6 +215,7 @@
         "unitCost" : 25.0,
         "unitID" : 306,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ganger",
@@ -199,6 +225,7 @@
           "optionID" : 330,
           "optionName" : "$Close Combat Weapons - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -206,6 +233,7 @@
           "optionID" : 332,
           "optionName" : "$Pistols - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -213,6 +241,7 @@
           "optionID" : 333,
           "optionName" : "$Armour - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -220,6 +249,7 @@
           "optionID" : 334,
           "optionName" : "$Basic Weapons - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -227,6 +257,7 @@
           "optionID" : 335,
           "optionName" : "$Special Weapons - Goliath",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -234,6 +265,7 @@
         "unitCost" : 60.0,
         "unitID" : 307,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Goliath 'Zerker",
@@ -243,6 +275,7 @@
           "optionID" : 706,
           "optionName" : "%Brawn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 70.0,
@@ -250,6 +283,7 @@
           "optionID" : 724,
           "optionName" : "Mutated fists and bone spurs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -257,6 +291,7 @@
           "optionID" : 725,
           "optionName" : "Furnace plate armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -264,6 +299,7 @@
           "optionID" : 726,
           "optionName" : "Stimm slug stash",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -271,6 +307,7 @@
         "unitCost" : 210.0,
         "unitID" : 695,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Sumpkroc",
@@ -280,6 +317,7 @@
           "optionID" : 760,
           "optionName" : "%Brawn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -287,6 +325,7 @@
         "unitCost" : 130.0,
         "unitID" : 753,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
@@ -296,6 +335,7 @@
           "optionID" : 265,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 60.0,
@@ -303,6 +343,7 @@
           "optionID" : 266,
           "optionName" : "Combat shotgun(with salvo and shredder ammo)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -310,6 +351,7 @@
           "optionID" : 267,
           "optionName" : "Shotgun(with solid and scatter ammo)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -317,6 +359,7 @@
           "optionID" : 268,
           "optionName" : "Stub cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Basic Weapons - Goliath"
@@ -327,6 +370,7 @@
           "optionID" : 269,
           "optionName" : "Axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -334,6 +378,7 @@
           "optionID" : 270,
           "optionName" : "Brute cleaver",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -341,6 +386,7 @@
           "optionID" : 271,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -348,6 +394,7 @@
           "optionID" : 272,
           "optionName" : "Fighting knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -355,6 +402,7 @@
           "optionID" : 273,
           "optionName" : "Maul(club)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 35.0,
@@ -362,6 +410,7 @@
           "optionID" : 274,
           "optionName" : "Power axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 45.0,
@@ -369,6 +418,7 @@
           "optionID" : 275,
           "optionName" : "Power hammer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 40.0,
@@ -376,6 +426,7 @@
           "optionID" : 276,
           "optionName" : "'Renderizer' serrated axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -383,6 +434,7 @@
           "optionID" : 277,
           "optionName" : "Spud-jacker",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -390,6 +442,7 @@
           "optionID" : 278,
           "optionName" : "Two-handed axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 35.0,
@@ -397,6 +450,7 @@
           "optionID" : 279,
           "optionName" : "Two-handed hammer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Close Combat Weapons - Goliath"
@@ -407,6 +461,7 @@
           "optionID" : 280,
           "optionName" : "Combi-pistol(stub gun/plasma pistol)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 45.0,
@@ -414,6 +469,7 @@
           "optionID" : 281,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 75.0,
@@ -421,6 +477,7 @@
           "optionID" : 282,
           "optionName" : "Hand flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -428,6 +485,7 @@
           "optionID" : 283,
           "optionName" : "Stub gun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Pistols - Goliath"
@@ -438,6 +496,7 @@
           "optionID" : 284,
           "optionName" : "Combi weapon(bolter/flamer)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 165.0,
@@ -445,6 +504,7 @@
           "optionID" : 285,
           "optionName" : "Combi weapon(bolter/melta)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 140.0,
@@ -452,6 +512,7 @@
           "optionID" : 286,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 55.0,
@@ -459,6 +520,7 @@
           "optionID" : 287,
           "optionName" : "Grenade launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 135.0,
@@ -466,6 +528,7 @@
           "optionID" : 288,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Special Weapons - Goliath"
@@ -476,6 +539,7 @@
           "optionID" : 289,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 195.0,
@@ -483,6 +547,7 @@
           "optionID" : 290,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 130.0,
@@ -490,6 +555,7 @@
           "optionID" : 291,
           "optionName" : "Heavy stubber",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 70.0,
@@ -497,6 +563,7 @@
           "optionID" : 292,
           "optionName" : "'Krumper' rivet cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Heavy Weapons - Goliath"
@@ -507,6 +574,7 @@
           "optionID" : 293,
           "optionName" : "Blasting charges",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -514,6 +582,7 @@
           "optionID" : 294,
           "optionName" : "Frag grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 45.0,
@@ -521,6 +590,7 @@
           "optionID" : 295,
           "optionName" : "Krak grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -528,6 +598,7 @@
           "optionID" : 296,
           "optionName" : "Smoke grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Grenades - Goliath"
@@ -538,6 +609,7 @@
           "optionID" : 297,
           "optionName" : "Furnace plates",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Armour - Goliath"
@@ -548,6 +620,7 @@
           "optionID" : 298,
           "optionName" : "Bio-booster",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -555,6 +628,7 @@
           "optionID" : 299,
           "optionName" : "Drop rig",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -562,6 +636,7 @@
           "optionID" : 300,
           "optionName" : "Dumdum rounds",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 35.0,
@@ -569,6 +644,7 @@
           "optionID" : 301,
           "optionName" : "Photo-goggles",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -576,6 +652,7 @@
           "optionID" : 302,
           "optionName" : "Respirator",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -583,6 +660,7 @@
           "optionID" : 303,
           "optionName" : "Stimm-slug stash",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Personal Equipment - Goliath"

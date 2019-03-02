@@ -11,6 +11,7 @@
           "optionID" : 629,
           "optionName" : "%Pistols - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -18,6 +19,7 @@
           "optionID" : 630,
           "optionName" : "%Basic Weapons - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -25,6 +27,7 @@
           "optionID" : 631,
           "optionName" : "%Close Combat Weapons - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -32,6 +35,7 @@
         "unitCost" : 30.0,
         "unitID" : 628,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bounty Hunter",
@@ -41,6 +45,7 @@
           "optionID" : 633,
           "optionName" : "%Armour  - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -48,6 +53,7 @@
           "optionID" : 634,
           "optionName" : "%Basic Weapons - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -55,6 +61,7 @@
           "optionID" : 635,
           "optionName" : "%Pistols - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -62,6 +69,7 @@
           "optionID" : 636,
           "optionName" : "%Special Weapons  - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -69,6 +77,7 @@
           "optionID" : 637,
           "optionName" : "%Heavy Weapons  - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -76,6 +85,7 @@
           "optionID" : 638,
           "optionName" : "%Close Combat Weapons - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -83,6 +93,7 @@
           "optionID" : 639,
           "optionName" : "%Grenades  - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -90,6 +101,7 @@
           "optionID" : 640,
           "optionName" : "%Field Armour - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -97,6 +109,7 @@
           "optionID" : 641,
           "optionName" : "%Bionics  - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -104,6 +117,7 @@
           "optionID" : 643,
           "optionName" : "%Personal Equipment - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -111,6 +125,7 @@
           "optionID" : 644,
           "optionName" : "%Weapon Accessories - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -118,6 +133,7 @@
           "optionID" : 645,
           "optionName" : "%Agility",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -125,6 +141,7 @@
           "optionID" : 646,
           "optionName" : "%Brawn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -132,6 +149,7 @@
           "optionID" : 647,
           "optionName" : "%Combat",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -139,6 +157,7 @@
           "optionID" : 648,
           "optionName" : "%Cunning",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -146,6 +165,7 @@
           "optionID" : 649,
           "optionName" : "%Ferocity",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -153,6 +173,7 @@
           "optionID" : 650,
           "optionName" : "%Shooting",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -160,6 +181,7 @@
         "unitCost" : 80.0,
         "unitID" : 632,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Baertrum Arturos",
@@ -169,6 +191,7 @@
         "unitCost" : 290.0,
         "unitID" : 651,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ortruum 8-8",
@@ -178,6 +201,7 @@
         "unitCost" : 250.0,
         "unitID" : 652,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Belladonna",
@@ -187,6 +211,7 @@
         "unitCost" : 275.0,
         "unitID" : 653,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Deserter",
@@ -196,6 +221,7 @@
         "unitCost" : 225.0,
         "unitID" : 654,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Eyros Slagmyst",
@@ -205,6 +231,7 @@
         "unitCost" : 270.0,
         "unitID" : 655,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Gor Half-Horn",
@@ -214,6 +241,7 @@
         "unitCost" : 235.0,
         "unitID" : 656,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grendl Grendlsen",
@@ -223,6 +251,7 @@
         "unitCost" : 280.0,
         "unitID" : 657,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grub Targeson",
@@ -232,6 +261,7 @@
         "unitCost" : 105.0,
         "unitID" : 658,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Krotos Hark",
@@ -241,6 +271,7 @@
         "unitCost" : 220.0,
         "unitID" : 660,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mad Dog Mono",
@@ -250,6 +281,7 @@
         "unitCost" : 90.0,
         "unitID" : 662,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Slate Merdena",
@@ -259,6 +291,7 @@
           "optionID" : 664,
           "optionName" : "Macula, Cyber-Mastiff",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -268,6 +301,7 @@
         "autoAddDictionary" : {
           "664" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Yar Umbra",
@@ -277,6 +311,7 @@
         "unitCost" : 230.0,
         "unitID" : 665,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Yolanda Skorn",
@@ -286,6 +321,7 @@
         "unitCost" : 230.0,
         "unitID" : 666,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rogue Docs",
@@ -295,6 +331,7 @@
           "optionID" : 687,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -302,6 +339,7 @@
           "optionID" : 688,
           "optionName" : "Stub gun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -309,6 +347,7 @@
           "optionID" : 689,
           "optionName" : "Medicae kit",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -316,6 +355,7 @@
         "unitCost" : 50.0,
         "unitID" : 668,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ammo Jacks",
@@ -325,6 +365,7 @@
           "optionID" : 682,
           "optionName" : "Power hammer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -332,6 +373,7 @@
           "optionID" : 683,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -339,6 +381,7 @@
           "optionID" : 684,
           "optionName" : "Mesh armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 55.0,
@@ -346,6 +389,7 @@
           "optionID" : 685,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 70.0,
@@ -353,6 +397,7 @@
           "optionID" : 686,
           "optionName" : "Combat shotgun(with salvo and shredder ammo)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -360,6 +405,7 @@
         "unitCost" : 50.0,
         "unitID" : 669,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dome Runner",
@@ -369,6 +415,7 @@
           "optionID" : 678,
           "optionName" : "Fighting knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -376,6 +423,7 @@
           "optionID" : 679,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -383,6 +431,7 @@
           "optionID" : 680,
           "optionName" : "Stub gun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -390,6 +439,7 @@
           "optionID" : 681,
           "optionName" : "Axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -397,6 +447,7 @@
         "unitCost" : 20.0,
         "unitID" : 670,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Slopper",
@@ -406,6 +457,7 @@
           "optionID" : 677,
           "optionName" : "Fighting knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -413,6 +465,7 @@
         "unitCost" : 20.0,
         "unitID" : 671,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Gang Look-Out",
@@ -422,6 +475,7 @@
           "optionID" : 673,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -429,6 +483,7 @@
           "optionID" : 674,
           "optionName" : "Stub gun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -436,6 +491,7 @@
           "optionID" : 675,
           "optionName" : "Fighting knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -443,6 +499,7 @@
           "optionID" : 676,
           "optionName" : "Axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -450,6 +507,7 @@
         "unitCost" : 20.0,
         "unitID" : 672,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Luther Pattern Excavation Automata",
@@ -459,6 +517,7 @@
           "optionID" : 700,
           "optionName" : "%Ferocity",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 70.0,
@@ -466,6 +525,7 @@
           "optionID" : 710,
           "optionName" : "Grav-fist",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -473,6 +533,7 @@
         "unitCost" : 215.0,
         "unitID" : 690,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "'Jotunn' Servitor Ogryn",
@@ -482,6 +543,7 @@
           "optionID" : 701,
           "optionName" : "%Brawn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 70.0,
@@ -489,6 +551,7 @@
           "optionID" : 712,
           "optionName" : "Arc welder",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -496,6 +559,7 @@
           "optionID" : 713,
           "optionName" : "Furnace plate armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -503,6 +567,7 @@
         "unitCost" : 210.0,
         "unitID" : 691,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Caryatid",
@@ -512,6 +577,7 @@
           "optionID" : 763,
           "optionName" : "%Agility",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -519,6 +585,7 @@
         "unitCost" : 0.0,
         "unitID" : 756,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Stash",
@@ -528,6 +595,7 @@
           "optionID" : 765,
           "optionName" : "%Basic Weapons - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -535,6 +603,7 @@
           "optionID" : 766,
           "optionName" : "%Pistols - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -542,6 +611,7 @@
           "optionID" : 767,
           "optionName" : "%Special Weapons  - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -549,6 +619,7 @@
           "optionID" : 768,
           "optionName" : "%Heavy Weapons  - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -556,6 +627,7 @@
           "optionID" : 769,
           "optionName" : "%Close Combat Weapons - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -563,6 +635,7 @@
           "optionID" : 770,
           "optionName" : "%Grenades  - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -570,6 +643,7 @@
           "optionID" : 771,
           "optionName" : "%Armour  - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -577,6 +651,7 @@
           "optionID" : 772,
           "optionName" : "%Field Armour - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -584,6 +659,7 @@
           "optionID" : 773,
           "optionName" : "%Bionics  - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -591,6 +667,7 @@
           "optionID" : 774,
           "optionName" : "%Gang Equipment - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -598,6 +675,7 @@
           "optionID" : 775,
           "optionName" : "%Personal Equipment - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -605,6 +683,7 @@
           "optionID" : 776,
           "optionName" : "%Weapon Accessories - Trading Post",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -612,6 +691,7 @@
           "optionID" : 777,
           "optionName" : "%Status Items - Trading Post ",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -619,6 +699,7 @@
         "unitCost" : 0.0,
         "unitID" : 764,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

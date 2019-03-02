@@ -11,6 +11,7 @@
           "optionID" : 239,
           "optionName" : "%Agility",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -18,6 +19,7 @@
           "optionID" : 240,
           "optionName" : "%Combat",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -25,6 +27,7 @@
           "optionID" : 243,
           "optionName" : "%Leadership",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -32,6 +35,7 @@
           "optionID" : 244,
           "optionName" : "%Basic Weapons - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -39,6 +43,7 @@
           "optionID" : 245,
           "optionName" : "%Close Combat Weapons - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -46,6 +51,7 @@
           "optionID" : 246,
           "optionName" : "%Pistols - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -53,6 +59,7 @@
           "optionID" : 247,
           "optionName" : "%Special Weapons - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -60,6 +67,7 @@
           "optionID" : 248,
           "optionName" : "%Heavy Weapons - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -67,6 +75,7 @@
           "optionID" : 249,
           "optionName" : "%Grenades - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -74,6 +83,7 @@
           "optionID" : 250,
           "optionName" : "%Armour - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -81,6 +91,7 @@
           "optionID" : 251,
           "optionName" : "%Personal Equipment - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -88,6 +99,7 @@
         "unitCost" : 120.0,
         "unitID" : 232,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Champion",
@@ -97,6 +109,7 @@
           "optionID" : 238,
           "optionName" : "%Agility",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -104,6 +117,7 @@
           "optionID" : 241,
           "optionName" : "%Combat",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -111,6 +125,7 @@
           "optionID" : 252,
           "optionName" : "%Basic Weapons - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -118,6 +133,7 @@
           "optionID" : 253,
           "optionName" : "%Close Combat Weapons - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -125,6 +141,7 @@
           "optionID" : 254,
           "optionName" : "%Pistols - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -132,6 +149,7 @@
           "optionID" : 255,
           "optionName" : "%Special Weapons - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -139,6 +157,7 @@
           "optionID" : 256,
           "optionName" : "%Heavy Weapons - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -146,6 +165,7 @@
           "optionID" : 257,
           "optionName" : "%Grenades - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -153,6 +173,7 @@
           "optionID" : 258,
           "optionName" : "%Armour - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -160,6 +181,7 @@
           "optionID" : 259,
           "optionName" : "%Personal Equipment - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -167,6 +189,7 @@
         "unitCost" : 95.0,
         "unitID" : 233,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Juve",
@@ -176,6 +199,7 @@
           "optionID" : 260,
           "optionName" : "%Close Combat Weapons - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -183,6 +207,7 @@
           "optionID" : 261,
           "optionName" : "%Pistols - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -190,6 +215,7 @@
         "unitCost" : 20.0,
         "unitID" : 234,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ganger",
@@ -199,6 +225,7 @@
           "optionID" : 262,
           "optionName" : "%Close Combat Weapons - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -206,6 +233,7 @@
           "optionID" : 263,
           "optionName" : "%Pistols - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -213,6 +241,7 @@
           "optionID" : 264,
           "optionName" : "%Basic Weapons - Escher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -220,6 +249,7 @@
         "unitCost" : 50.0,
         "unitID" : 235,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Kria Kytoro",
@@ -229,6 +259,7 @@
         "unitCost" : 240.0,
         "unitID" : 659,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "House Escher Shimerix",
@@ -238,6 +269,7 @@
           "optionID" : 705,
           "optionName" : "%Ferocity",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 80.0,
@@ -245,6 +277,7 @@
           "optionID" : 721,
           "optionName" : "Gaseous eruption",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -252,6 +285,7 @@
           "optionID" : 722,
           "optionName" : "Razor-sharp talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -259,6 +293,7 @@
           "optionID" : 723,
           "optionName" : "Flak armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -266,6 +301,7 @@
         "unitCost" : 220.0,
         "unitID" : 696,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Phyrr Cat",
@@ -275,6 +311,7 @@
           "optionID" : 759,
           "optionName" : "%Agility",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -282,6 +319,7 @@
         "unitCost" : 120.0,
         "unitID" : 752,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
@@ -291,6 +329,7 @@
           "optionID" : 193,
           "optionName" : "Autogun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -298,6 +337,7 @@
           "optionID" : 194,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -305,6 +345,7 @@
           "optionID" : 195,
           "optionName" : "Shotgun(with solid and scatter ammo)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Basic Weapons - Escher"
@@ -315,6 +356,7 @@
           "optionID" : 196,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -322,6 +364,7 @@
           "optionID" : 197,
           "optionName" : "Fighting knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -329,6 +372,7 @@
           "optionID" : 198,
           "optionName" : "Power knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 45.0,
@@ -336,6 +380,7 @@
           "optionID" : 199,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -343,6 +388,7 @@
           "optionID" : 200,
           "optionName" : "Shock whip",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -350,6 +396,7 @@
           "optionID" : 201,
           "optionName" : "Stiletto knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -357,6 +404,7 @@
           "optionID" : 202,
           "optionName" : "Stiletto sword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Close Combat Weapons - Escher"
@@ -367,6 +415,7 @@
           "optionID" : 203,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 75.0,
@@ -374,6 +423,7 @@
           "optionID" : 204,
           "optionName" : "Hand flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -381,6 +431,7 @@
           "optionID" : 205,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -388,6 +439,7 @@
           "optionID" : 206,
           "optionName" : "Needle pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -395,6 +447,7 @@
           "optionID" : 207,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -402,6 +455,7 @@
           "optionID" : 208,
           "optionName" : "Stub gun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Pistols - Escher"
@@ -412,6 +466,7 @@
           "optionID" : 209,
           "optionName" : "Combi-weapon(bolter/needler)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 140.0,
@@ -419,6 +474,7 @@
           "optionID" : 210,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 135.0,
@@ -426,6 +482,7 @@
           "optionID" : 211,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 35.0,
@@ -433,6 +490,7 @@
           "optionID" : 212,
           "optionName" : "Needle rifle",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 135.0,
@@ -440,6 +498,7 @@
           "optionID" : 213,
           "optionName" : "'Nightshade' chem-thrower",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 100.0,
@@ -447,6 +506,7 @@
           "optionID" : 214,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Special Weapons - Escher"
@@ -457,6 +517,7 @@
           "optionID" : 215,
           "optionName" : "Havy stubber",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Heavy Weapons - Escher"
@@ -467,6 +528,7 @@
           "optionID" : 216,
           "optionName" : "Choke gas grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -474,6 +536,7 @@
           "optionID" : 217,
           "optionName" : "Frag grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 45.0,
@@ -481,6 +544,7 @@
           "optionID" : 218,
           "optionName" : "Krak grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -488,6 +552,7 @@
           "optionID" : 219,
           "optionName" : "Photon flash grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 40.0,
@@ -495,6 +560,7 @@
           "optionID" : 220,
           "optionName" : "Scare gas grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -502,6 +568,7 @@
           "optionID" : 221,
           "optionName" : "Smoke grenades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Grenades - Escher"
@@ -512,6 +579,7 @@
           "optionID" : 222,
           "optionName" : "Flak armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -519,6 +587,7 @@
           "optionID" : 223,
           "optionName" : "Mesh armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Armour - Escher"
@@ -529,6 +598,7 @@
           "optionID" : 224,
           "optionName" : "Acid rounds",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -536,6 +606,7 @@
           "optionID" : 225,
           "optionName" : "Chem-synth",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -543,6 +614,7 @@
           "optionID" : 226,
           "optionName" : "Drop rig",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -550,6 +622,7 @@
           "optionID" : 227,
           "optionName" : "Dumdum rounds",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -557,6 +630,7 @@
           "optionID" : 228,
           "optionName" : "Filter plugs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 35.0,
@@ -564,6 +638,7 @@
           "optionID" : 229,
           "optionName" : "Las-projector",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 35.0,
@@ -571,6 +646,7 @@
           "optionID" : 230,
           "optionName" : "Photo goggles",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -578,6 +654,7 @@
           "optionID" : 231,
           "optionName" : "Respirator",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Personal Equipment - Escher"
